@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        #edeef8 0%,
+        #edeef8 21%,
+        white 21%,
+        white 100%
+    );
+}
+
+p{
+    display: inline-block;
+    font-size: 40px;
+    padding-right: 10px;      
+    padding-left: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: #222831;
+    color: #F7ECDE;
+}
+
+
+
+div{
+    margin-top: 250px;
+    margin-left: 430px;
+    color: #e2d8d8;
+}
+
+p1{
+    text-decoration: underline; 
+    text-decoration-thickness: 2px;
+    color: #273344;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+p4{
+    color: #4F200D;
+    font-size: 17px;
+    font-weight: lighter;
+    margin-left: 0px;
+}
+
+p5{
+    color: #4F200D;
+    font-size: 17px;
+    font-weight: lighter;
+    margin-left: 0px;
+}
+
+#gunjan{
+    display: inline-block;
+    height: 570px;
+    margin-left: 576px;
+    margin-top: -330px;
+}
+
+p6{
+    color: #FF6000;
+    font-size: 17px;
+    font-weight: normal;
+    margin-left: 0px;
+}
+
+#home{ 
+    
+    padding: 1px 24.57px;
+    border-color: #4F200D;
+    background-color: #dfd4e4;
+    border-radius: 7%;
+    position: absolute;
+    top: 44%;
+    left: 8.26%;
+    font-weight: normal;
+}
+
+#home:hover{
+    background-color: #cf8061;
+    transition: 0.2s;
+}
+
+#about{
+    border-color: #4F200D;
+    border-radius: 7%;
+    padding: 1px 24.86px;
+    background-color: #dfd4e4;
+    position: absolute;
+    top:50%;
+    left: 8.27%;
+    font-weight: normal;
+}
+
+#about:hover{
+    background-color: #cf8061;
+    transition: 0.2s;
+}
+
+#education{
+    border-color: #4F200D;
+    border-radius: 7%;
+    padding: 1px 12.3px;
+    background-color: #dfd4e4;
+    position: absolute;
+    top: 56%;
+    left: 8.3%;
+    font-weight: normal;
+}
+
+#education:hover{
+    background-color: #cf8061;
+    transition: 0.2s;
+}
+
+#contact{
+    border-color: #4F200D;
+    border-radius: 7%;
+    padding: 1px 19px;
+    background-color: #dfd4e4;
+    position: absolute;
+    top: 62%;
+    left: 8.3%;
+    font-weight: normal;
+}
+
+#contact:hover{
+    background-color: #cf8061;
+    transition: 0.2s;
+}
+
+#name1{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#edeef8;
+    border: none;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    top: 6%;
+    left: 10.3%;
+    font-weight: bold ;
+    color: #273344;
+}

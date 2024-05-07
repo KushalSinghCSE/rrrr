@@ -1,0 +1,116 @@
+div{
+    /* text-align: center; */
+    margin-top: 240px; 
+    margin-left: 675px; 
+    color: #FFECB3;
+}
+
+p1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+p2{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p3{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p4{
+    font-size: 20px;
+}
+
+button{    
+    background-color: #ba9a9a;
+    border-radius: 10px;
+    border-color: gold;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    /* top: 85%; */
+    top: 65%;
+    left: 49.2%;
+    padding: 20px 50px;
+    font-weight: lighter;
+    padding: 10px 10px 10px 10px;
+    color: black
+}
+
+button:hover{
+    background-color: #E19898;
+    transition: 0.2s;
+}
+
+
+
+
+#linkedin{    
+    background-color: #ba9a9a;
+    border-color: gold;
+    border-radius: 10px;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    /* top: 6%;  */
+    /* left: 83%; */
+    font-weight: lighter;
+    color: black;
+
+    margin-top: 223px;
+    margin-left: 542px; 
+}
+
+#linkedin:hover{
+    background-color: #E19898;
+    transition: 0.2s;
+}
+
+#github{    
+    background-color: #ba9a9a;
+    border-color: gold;
+    border-radius: 10px;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    /* top: 6%; */
+    /* left: 89%; */
+    font-weight:lighter ;
+    color: black;
+
+    margin-top: 223px;
+    margin-left: 632px;
+}
+
+#github:hover{
+    background-color: #E19898;
+    transition: 0.2s;
+}
+
+#discord{    
+    background-color:#ba9a9a;
+    border-color:  gold;
+    border-radius: 10px;
+    position: absolute;
+    transform: translate(-50% , -50%);
+    /* top: 6%; */
+    /* left: 80%; */
+    font-weight: normal;
+    color: black;
+
+    margin-top: 223px;
+    margin-left: 717px;
+}
+
+#discord:hover{
+    background-color: #E19898;
+    transition: 0.2s;
+}
+
+#decor22{
+    position: absolute;
+    height: 400px;
+    top: 4%;
+    left: 55%;
+}
